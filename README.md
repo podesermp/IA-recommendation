@@ -1,7 +1,6 @@
 # Inteligência Artificial de recomendações
 Essa IA foi desenvolvida durante o curso de Inteligência Artificial: Sistema de Recomendação Python, ministrado por Jones Granatyr, IA Expert Academy.
 
-## Acesso ao ambiente virtual
-```
-source env/bin/activate
-```
+## Descrição dos arquivos
+_**main.py:**_ contém as funções que são usadas para calcular a similaridade entre produtos. <br>
+_**data_base.py:**_ Contém a base de dados(ilustrativa) para testes das funções da _main.py_.
